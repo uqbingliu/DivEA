@@ -1,4 +1,7 @@
-# DivEA codes and data
+# DivEA
+
+This repo is for reproducing our work *High-quality Task Division for Large-scale Entity Alignment*, which has been accepted at CIKM 2022
+([arXiv](High-quality Task Division for Large-scale Entity Alignment)).
 
 Download the code and [data](https://www.dropbox.com/sh/1ecy19x7j6f4bak/AAA4rY28rizHe1AFlNVlYEAqa?dl=0). The structure of folders should be organized as below
 ```shell
@@ -49,6 +52,16 @@ The scripts for running our method with RREA are put under `scripts/`.
 * `bash run_over_perf_vs_sbp_2m.sh`. Overall performance. Table 2.
 
 The scripts for running our method with GCN-Align are put under `scripts2/`. The script file names and corresponding functions can be aligned with scripts under `scripts/`.
+
+
+## Citation
+tab
+
+## Acknowledgement
+
+We used the source codes of [RREA](https://github.com/MaoXinn/RREA) and [GCN-Align](https://github.com/1049451037/GCN-Align).
+
+
 
 
 
