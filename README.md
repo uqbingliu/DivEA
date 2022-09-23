@@ -1,7 +1,7 @@
 # DivEA
 
 This repo is for reproducing our work *High-quality Task Division for Large-scale Entity Alignment*, which has been accepted at CIKM 2022
-([arXiv](High-quality Task Division for Large-scale Entity Alignment)).
+([arXiv](https://arxiv.org/pdf/2208.10366.pdf)).
 
 Download the code and [data](https://www.dropbox.com/sh/1ecy19x7j6f4bak/AAA4rY28rizHe1AFlNVlYEAqa?dl=0). The structure of folders should be organized as below
 ```text
@@ -55,7 +55,7 @@ The scripts for running our method with GCN-Align are put under `scripts2/`. The
 
 
 ## Citation
-tab
+tbd
 
 ## Acknowledgement
 
