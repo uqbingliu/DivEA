@@ -55,6 +55,8 @@ The scripts for running our method with GCN-Align are put under `scripts2/`. The
 
 
 ## Citation
+
+Please cite this paper if you use the released code in your work.
 ```
 @inproceedings{DBLP:conf/cikm/LiuHZZZ22,
   author    = {Bing Liu and
