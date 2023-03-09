@@ -55,7 +55,28 @@ The scripts for running our method with GCN-Align are put under `scripts2/`. The
 
 
 ## Citation
-tbd
+```
+@inproceedings{DBLP:conf/cikm/LiuHZZZ22,
+  author    = {Bing Liu and
+               Wen Hua and
+               Guido Zuccon and
+               Genghong Zhao and
+               Xia Zhang},
+  editor    = {Mohammad Al Hasan and
+               Li Xiong},
+  title     = {High-quality Task Division for Large-scale Entity Alignment},
+  booktitle = {Proceedings of the 31st {ACM} International Conference on Information
+               {\&} Knowledge Management, Atlanta, GA, USA, October 17-21, 2022},
+  pages     = {1258--1268},
+  publisher = {{ACM}},
+  year      = {2022},
+  url       = {https://doi.org/10.1145/3511808.3557352},
+  doi       = {10.1145/3511808.3557352},
+  timestamp = {Wed, 04 Jan 2023 07:33:22 +0100},
+  biburl    = {https://dblp.org/rec/conf/cikm/LiuHZZZ22.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+```
 
 ## Acknowledgement
 
